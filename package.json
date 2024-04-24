@@ -1,0 +1,30 @@
+{
+  "name": "formdata-node-readablestream-type-error",
+  "version": "1.0.0",
+  "description": "An example app showing an issue with formdata-nodes readable stream type",
+  "type": "module",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lemke-ethan/formdata-node-readablestream-type-error.git"
+  },
+  "keywords": [
+    "formdata-node",
+    "node",
+    "typescript"
+  ],
+  "author": "Ethan Lemke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lemke-ethan/formdata-node-readablestream-type-error/issues"
+  },
+  "homepage": "https://github.com/lemke-ethan/formdata-node-readablestream-type-error#readme",
+  "devDependencies": {
+    "@types/node": "~18.19.15",
+    "typescript": "^5.4.4",
+    "formdata-node":"6.0.3"
+  }
+}
