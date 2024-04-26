@@ -1,6 +1,5 @@
 {
   "compilerOptions": {
-    "noEmit": true,
     "lib": ["esnext"],
     "module": "NodeNext",
     "moduleResolution": "NodeNext",
@@ -13,7 +12,7 @@
     "noUncheckedIndexedAccess": true,
     "esModuleInterop": true,
     "allowSyntheticDefaultImports": true,
-    "outDir": "lib"
+    "outDir": "dist"
   },
   "include": ["src"]
 }
